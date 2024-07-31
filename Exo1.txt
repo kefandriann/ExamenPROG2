@@ -1,0 +1,5 @@
+1. L'annotation @Override signifie ecraser la methode deja existante et la remplacer par une nouvelle toujours avec le meme nom.
+
+2. On a souvent besoin de redefinir equals et hashcode parce que de base, ils permettent de comparer les objets grace a leur reference et en les remplacant, ils permettent de comparer les objets en fonction de leurs valeurs logiques.
+
+3. Le polymorphisme statique est une moyen de declarer une methode avec differents algo possibles en foncion des valeurs ajouter en parametres.
